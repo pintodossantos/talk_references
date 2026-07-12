@@ -4,3 +4,12 @@
 - [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
 - [Of editorial processes, AI models, and medical literature: the Magnetic Resonance Audiometry experiment](https://link.springer.com/article/10.1007/s00330-024-10668-w)
 - [A Doctor Published Several Research Papers With Breakneck Speed. ChatGPT Wrote Them All](https://www.thedailybeast.com/how-this-doctor-wrote-dozens-of-science-papers-with-chatgpt/)
+
+
+- [Hallucinated citations are polluting the scientific literature. What can be done?](https://www.nature.com/articles/d41586-026-00969-z)
+- [Fabricated citations: an audit across 2·5 million biomedical papers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext)
+
+## Bonus
+- [References to nowhere.] (https://www.maxtopaz.com/citadel)
+- [One in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
+- [The Bixonimania Experiment: How a Fake Disease Fooled ChatGPT, Gemini, and Copilot](https://teledirectmd.com/health-guides/bixonimania-fake-disease-ai-experiment/)
