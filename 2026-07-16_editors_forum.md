@@ -11,6 +11,7 @@
 
 ---
 ## Bonus
+
 - [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 - [References to nowhere.](https://www.maxtopaz.com/citadel)
 - [One in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
@@ -19,3 +20,5 @@
 - [The problem of miscitation in psychological science: Righting the ship.](https://psycnet.apa.org/doiLanding?doi=10.1037%2Famp0001138)
 - [Why AI Can Never Escape Turing's 1936 Proof](https://www.youtube.com/watch?v=u_5erLilDXY)
 - [Plausible deniability](https://en.wikipedia.org/wiki/Plausible_deniability)
+- [Rice's theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem)
+- [Artificial intelligence content detection](https://en.wikipedia.org/wiki/Artificial_intelligence_content_detection)
