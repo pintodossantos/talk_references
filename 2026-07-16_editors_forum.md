@@ -9,9 +9,14 @@
 - `slide 07`: [Hallucinated citations are polluting the scientific literatur (...)](https://www.nature.com/articles/d41586-026-00969-z)
 - `slide 08`: [Attention is all you need](https://arxiv.org/abs/1706.03762)
 - `slide 09`: [The great detectives: humans versus AI detectors in catching (...)](https://link.springer.com/article/10.1007/s40979-024-00155-6)
-- [Fabricated citations: an audit across 2·5 million biomedical papers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext)
-- ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/business/technology/artificial-intelligence/positive-review-only-researchers-hide-ai-prompts-in-papers)
-- [The Best AI Detector Tools - I Tested 9 Tools for False Positives (May 2026)](https://ilampadmanabhan.medium.com/best-ai-detector-tools-b32af47b80eb)
+- `slide 10`: [Radiomics Simplified for the Practicing Radiologist](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5278282)
+- `slide 13`: [AI produces gibberish when trained on too much AI-generated data](https://www.nature.com/articles/d41586-024-02355-z)
+- `slide 14`: [Bixonimania](https://en.wikipedia.org/wiki/Bixonimania)
+- `slide 15`: [Forsker fant opp en sykdom. Kort tid etterpå begynte chatboter å omtale den som ekte](https://www.forskning.no/forskningsetikk-kunstig-intelligens-teknologi/forsker-fant-opp-en-sykdom-kort-tid-etterpa-begynte-chatboter-a-omtale-den-som-ekte/2648345)
+- `slide 16`: [Hallucinated citations are polluting the scientific literature. What can be done?](https://www.nature.com/articles/d41586-026-00969-z)
+- `slide 16`: [Fabricated citations: an audit across 2·5 million biomedical papers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext)
+- `slide 17`: [The Best AI Detector Tools - I Tested 9 Tools for False Positives (May 2026)](https://ilampadmanabhan.medium.com/best-ai-detector-tools-b32af47b80eb)
+- `slide 18`: ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/business/technology/artificial-intelligence/positive-review-only-researchers-hide-ai-prompts-in-papers)
 
 ---
 ## Bonus
