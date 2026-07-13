@@ -1,17 +1,19 @@
 # AI / LLMs in manuscript writing and peer review
 
-- [Sokal affair](https://de.wikipedia.org/wiki/Sokal-Affäre)
-- [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
-- [Of editorial processes, AI models, and medical literature: the Magnetic Resonance Audiometry experiment](https://link.springer.com/article/10.1007/s00330-024-10668-w)
-- [A Doctor Published Several Research Papers With Breakneck Speed. ChatGPT Wrote Them All](https://www.thedailybeast.com/how-this-doctor-wrote-dozens-of-science-papers-with-chatgpt/)
-- [Hallucinated citations are polluting the scientific literature. What can be done?](https://www.nature.com/articles/d41586-026-00969-z)
+- `slide 03`: [Sokal affair](https://de.wikipedia.org/wiki/Sokal-Affäre)
+- `slide 04`: [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair)
+- `slide 05`: [Of editorial processes, AI models, and medical literature: the Magnetic Resonance Audiometry experiment](https://link.springer.com/article/10.1007/s00330-024-10668-w)
+- `slide 06`: [A Doctor Published Several Research Papers With Breakneck Speed. ChatGPT Wrote Them All](https://www.thedailybeast.com/how-this-doctor-wrote-dozens-of-science-papers-with-chatgpt/)
+- `slide 07`: [Successful management of an Iatrogenic portal vein and hepatic artery injury in a 4-month-old female patient: A case report and literature review](https://www.sciencedirect.com/science/article/pii/S1930043324001298)
+- `slide 07`: [Assessment of the efficacy of alkaline water in conjunction with conventional medication for the treatment of chronic gouty arthritis: A randomized controlled study](https://www.ovid.com/jnls/md-journal/fulltext/10.1097/md.0000000000039085~assessment-of-the-efficacy-of-alkaline-water-in-conjunction)
+- `slide 07`: [Hallucinated citations are polluting the scientific literature. What can be done?](https://www.nature.com/articles/d41586-026-00969-z)
 - [Fabricated citations: an audit across 2·5 million biomedical papers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext)
 - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/business/technology/artificial-intelligence/positive-review-only-researchers-hide-ai-prompts-in-papers)
 - [The Best AI Detector Tools - I Tested 9 Tools for False Positives (May 2026)](https://ilampadmanabhan.medium.com/best-ai-detector-tools-b32af47b80eb)
 
 ---
 ## Bonus
-
+- [Giant rat penis redux: AI-generated diagram, errors lead to retraction](https://retractionwatch.com/2024/07/22/giant-rat-penis-redux-ai-generated-diagram-errors-lead-to-retraction/)
 - [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 - [References to nowhere.](https://www.maxtopaz.com/citadel)
 - [One in 277 PubMed-indexed papers in 2026 shows fabricated references, says analysis](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
