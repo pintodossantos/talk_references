@@ -7,6 +7,8 @@
 - `slide 07`: [Successful management of an Iatrogenic portal vein and hepatic artery injury in a 4-month-old female patient: A case report and literature review](https://www.sciencedirect.com/science/article/pii/S1930043324001298)
 - `slide 07`: [Assessment of the efficacy of alkaline water in conjunction with conventional medication for the treatment of chronic gouty arthritis: A randomized controlled study](https://www.ovid.com/jnls/md-journal/fulltext/10.1097/md.0000000000039085~assessment-of-the-efficacy-of-alkaline-water-in-conjunction)
 - `slide 07`: [Hallucinated citations are polluting the scientific literature. What can be done?](https://www.nature.com/articles/d41586-026-00969-z)
+- `slide 08`: [Attention is all you need](https://arxiv.org/abs/1706.03762)
+- `slide 09`: [The great detectives: humans versus AI detectors in catching(...)](https://link.springer.com/article/10.1007/s40979-024-00155-6)
 - [Fabricated citations: an audit across 2·5 million biomedical papers](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00603-3/fulltext)
 - ['Positive review only': Researchers hide AI prompts in papers](https://asia.nikkei.com/business/technology/artificial-intelligence/positive-review-only-researchers-hide-ai-prompts-in-papers)
 - [The Best AI Detector Tools - I Tested 9 Tools for False Positives (May 2026)](https://ilampadmanabhan.medium.com/best-ai-detector-tools-b32af47b80eb)
