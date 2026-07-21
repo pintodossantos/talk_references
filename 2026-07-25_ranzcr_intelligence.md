@@ -13,7 +13,7 @@
 - `Slide 11`: [Developing, purchasing, implementing and monitoring AI tools in radiology: practical considerations. A multi-society statement from the ACR, CAR, ESR, RANZCR & RSNA](https://link.springer.com/article/10.1186/s13244-023-01541-3)
 - `Slide 12`: [Comparison of AI software tools for automated detection, quantification and categorization of pulmonary nodules in the HANSE LCS trial](https://www.nature.com/articles/s41598-024-78568-z)
 - `Slide 13`: [Diagnostic performance of artificial intelligence models for pulmonary nodule classification: a multi-model evaluation](https://link.springer.com/10.1007/s00330-025-11845-1)
-- `Slide 14`: [XXXXXXXXXXXXX](https://www.iqwig.de/sich-einbringen/themencheck-medizin/berichte/t24-04.html)
+- `Slide 14`: [Integrated health technology assessment for evaluating complex technologies](https://cordis.europa.eu/project/id/306141/reporting/es)
 - `Slide 15`: [Lungenkrebs: Kann Künstliche Intelligenz die Auswertung von Röntgen- oder CT-Bildern der Lunge unterstützen?](https://www.iqwig.de/sich-einbringen/themencheck-medizin/berichte/t24-04.html)
 - `Slide 16`: [Not all AI health tools with regulatory authorization are clinically validated](https://www.nature.com/articles/s41591-024-03203-3)
 - `Slide 16`: [International Telecommunication Union - FG-AI4H DEL7.4: Clinical evaluation of AI for health](https://www.itu.int/dms_pub/itu-t/opb/fg/T-FG-AI4H-2023-3-PDF-E.pdf)
